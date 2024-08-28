@@ -42,4 +42,8 @@ public class SeleniumTest {
     public void secondTest(){
 
     }
+    @Test
+    public void thirdTest(){
+
+    }
 }
