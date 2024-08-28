@@ -38,4 +38,8 @@ public class SeleniumTest {
         //   textBox.sendKeys(Keys.ENTER);
 
     }
+    @Test
+    public void secondTest(){
+
+    }
 }
