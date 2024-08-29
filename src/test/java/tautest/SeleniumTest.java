@@ -54,4 +54,8 @@ public class SeleniumTest {
     public void fifthTest(){
 
     }
+    @Test
+    public void sixthTest(){
+
+    }
 }
